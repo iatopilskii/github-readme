@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning NestJS and Astro<br>🎯 Goals: work in a big multicultural company</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning NestJS and Astro</p>
 
 ###
 
